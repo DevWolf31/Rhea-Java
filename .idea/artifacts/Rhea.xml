@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Rhea">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rhea</output-path>
+    <root id="archive" name="Rhea.jar">
+      <element id="module-output" name="Rhea" />
+    </root>
+  </artifact>
+</component>
